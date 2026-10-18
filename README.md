@@ -5,6 +5,7 @@
 ## Projets
 
 - [Menu Maison](https://github.com/minifre3re3/menu-maison) — application web réalisée en équipe pour gérer des menus et un stock d’ingrédients. Flask, SQLite, HTML, CSS et JavaScript.
+- [Projet BDD](https://github.com/minifre3re3/Projet-BDD) — interface statique de consultation de fiches, réalisée en groupe avec HTML, CSS et JavaScript.
 - [Jeu de la Vie de Conway](https://github.com/minifre3re3/Jeu-de-la-Vie-de-Conway) — simulation avec interface Tkinter, en Python.
 - [Tron JS](https://github.com/minifre3re3/tron-js) — jeu multijoueur local en JavaScript avec HTML5 Canvas.
 
