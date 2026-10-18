@@ -1,16 +1,13 @@
-## Hi there 👋
+# Étudiant en L3 Informatique
 
-<!--
-**minifre3re3/minifre3re3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant à CY Cergy Paris Université, je recherche un stage de 2 à 4 mois à partir d’avril. Je souhaite développer mon expérience en systèmes et réseaux, en administration d’infrastructures et en support informatique.
 
-Here are some ideas to get you started:
+## Projets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Menu Maison](https://github.com/minifre3re3/menu-maison) — application web réalisée en équipe pour gérer des menus et un stock d’ingrédients. Flask, SQLite, HTML, CSS et JavaScript.
+- [Jeu de la Vie de Conway](https://github.com/minifre3re3/Jeu-de-la-Vie-de-Conway) — simulation avec interface Tkinter, en Python.
+- [Tron JS](https://github.com/minifre3re3/tron-js) — jeu multijoueur local en JavaScript avec HTML5 Canvas.
+
+## Technologies utilisées
+
+Python · Flask · SQLite · JavaScript · HTML/CSS
