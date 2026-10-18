@@ -1,6 +1,6 @@
 # Étudiant en L3 Informatique
 
-Étudiant à CY Cergy Paris Université, je recherche un stage de 2 à 4 mois à partir d’avril. Je souhaite développer mon expérience en systèmes et réseaux, en administration d’infrastructures et en support informatique.
+Étudiant à CY Cergy Paris Université, je recherche un stage de 2 à 4 mois à partir d’avril 2027. Je souhaite développer mon expérience en systèmes et réseaux, en administration d’infrastructures et en support informatique.
 
 ## Projets
 
